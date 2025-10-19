@@ -1,0 +1,11 @@
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\DataStructures\bin\Debug\net8.0\DataStructures.deps.json
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\DataStructures\bin\Debug\net8.0\DataStructures.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\DataStructures\bin\Debug\net8.0\DataStructures.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\DataStructures\obj\Debug\net8.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfo.cs
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\DataStructures\obj\Debug\net8.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\DataStructures\obj\Debug\net8.0\DataStructures.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\DataStructures\obj\Debug\net8.0\refint\DataStructures.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\DataStructures\obj\Debug\net8.0\DataStructures.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\DataStructures\obj\Debug\net8.0\ref\DataStructures.dll
