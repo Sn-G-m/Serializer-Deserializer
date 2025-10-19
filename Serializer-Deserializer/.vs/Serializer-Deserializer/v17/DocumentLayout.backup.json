@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F40D73-62F1-4DE4-8F1C-56F104D0D105}|Serializer-Deserializer\\Serializer-Deserializer.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\serializer-deserializer\\serializer-deserializer\\serializer-deserializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F40D73-62F1-4DE4-8F1C-56F104D0D105}|Serializer-Deserializer\\Serializer-Deserializer.csproj|solutionrelative:serializer-deserializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A0471F-7FB1-4101-B06B-DE8CA3FDF4C5}|DataStructures\\DataStructures.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\serializer-deserializer\\serializer-deserializer\\datastructures\\idatastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A0471F-7FB1-4101-B06B-DE8CA3FDF4C5}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\idatastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A0471F-7FB1-4101-B06B-DE8CA3FDF4C5}|DataStructures\\DataStructures.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\serializer-deserializer\\serializer-deserializer\\datastructures\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A0471F-7FB1-4101-B06B-DE8CA3FDF4C5}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309872D7-2600-4D5E-9B54-B25FD4650480}|ISerDser\\ISerDser.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\serializer-deserializer\\serializer-deserializer\\iserdser\\bstserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309872D7-2600-4D5E-9B54-B25FD4650480}|ISerDser\\ISerDser.csproj|solutionrelative:iserdser\\bstserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309872D7-2600-4D5E-9B54-B25FD4650480}|ISerDser\\ISerDser.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\serializer-deserializer\\serializer-deserializer\\iserdser\\iserdser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309872D7-2600-4D5E-9B54-B25FD4650480}|ISerDser\\ISerDser.csproj|solutionrelative:iserdser\\iserdser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDataStructure.cs",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\DataStructures\\IDataStructure.cs",
+              "RelativeDocumentMoniker": "DataStructures\\IDataStructure.cs",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\DataStructures\\IDataStructure.cs",
+              "RelativeToolTip": "DataStructures\\IDataStructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:46:22.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\DataStructures\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "DataStructures\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\DataStructures\\BinarySearchTree.cs",
+              "RelativeToolTip": "DataStructures\\BinarySearchTree.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:26:28.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BstSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\ISerDser\\BstSerializer.cs",
+              "RelativeDocumentMoniker": "ISerDser\\BstSerializer.cs",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\ISerDser\\BstSerializer.cs",
+              "RelativeToolTip": "ISerDser\\BstSerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:20:49.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISerDser.cs",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\ISerDser\\ISerDser.cs",
+              "RelativeDocumentMoniker": "ISerDser\\ISerDser.cs",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\ISerDser\\ISerDser.cs",
+              "RelativeToolTip": "ISerDser\\ISerDser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:10:39.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\Serializer-Deserializer\\Program.cs",
+              "RelativeDocumentMoniker": "Serializer-Deserializer\\Program.cs",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\Serializer-Deserializer\\Program.cs",
+              "RelativeToolTip": "Serializer-Deserializer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:50:49.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

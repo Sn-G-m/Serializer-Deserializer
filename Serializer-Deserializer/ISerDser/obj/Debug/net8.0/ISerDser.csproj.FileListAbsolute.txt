@@ -1,0 +1,11 @@
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\bin\Debug\net8.0\ISerDser.deps.json
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\bin\Debug\net8.0\ISerDser.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\bin\Debug\net8.0\ISerDser.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\ISerDser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\ISerDser.AssemblyInfoInputs.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\ISerDser.AssemblyInfo.cs
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\ISerDser.csproj.CoreCompileInputs.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\ISerDser.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\refint\ISerDser.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\ISerDser.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\ref\ISerDser.dll
