@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SerDser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52d028f6ab84f49b3488f3a5e7f86ba7107097d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c3cf3e78599ad8442de5f068027265ac2bd61bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("SerDser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SerDser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
