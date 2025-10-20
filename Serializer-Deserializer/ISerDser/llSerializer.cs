@@ -1,40 +1,24 @@
 ﻿using DataStructures;
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace SerDser
 {
-    public class BstSerializer: ISerDser
+    public class LlSerializer: ISerDser
     {
-        public byte[] Serializer(object binarySearchTree)
+        public byte[] Serializer(object linkedList)
         {
-            BinarySearchTree tree = (BinarySearchTree) binarySearchTree;
+            LinkedList list = (LinkedList) linkedList;
             List<int> elementList = new List<int>();
             byte[] byteStream;
 
-            // Preorder Traversal of the tree
-            Stack<BinarySearchTree> stack = new Stack<BinarySearchTree>();
-            stack.Push(tree);
-
-            // Loop over all nodes and append the values to the list, elementList
-            while (stack.Count > 0)
+            while (list != null)
             {
-                BinarySearchTree currentNode = stack.Pop();
-                elementList.Add(currentNode.Value);
-
-                if (currentNode.rightNode != null )
-                {
-                    stack.Push(currentNode.rightNode);
-                }
-                if (currentNode.leftNode != null)
-                {
-                    stack.Push(currentNode.leftNode);
-                }
+                elementList.Add(list.Value);
+                list = list.next;
             }
 
             // Flatten and convert elementList to a byteStream
@@ -46,7 +30,7 @@ namespace SerDser
 
         public object Deserializer(byte[] byteStream)
         {
-            BinarySearchTree originalTree = new BinarySearchTree();
+            LinkedList originalLl = new LinkedList();
 
             List<int> elementList = new List<int>();
 
@@ -66,9 +50,9 @@ namespace SerDser
                 Array.Clear(currentByteSlice, 0, currentByteSlice.Length);
             }
 
-            originalTree.CreateDsFromList(elementList);
+            originalLl.CreateDsFromList(elementList);
 
-            return originalTree;
+            return originalLl;
         }
     }
 }

@@ -5,9 +5,9 @@
     /// </summary>
     public class BinarySearchTree : IDataStructure
     {
-        public int _value;
-        public BinarySearchTree? _leftNode;
-        public BinarySearchTree? _rightNode;
+        private int _value;
+        public BinarySearchTree? leftNode;
+        public BinarySearchTree? rightNode;
 
         public BinarySearchTree()
         {
@@ -23,30 +23,35 @@
         {
             if (value > _value)
             {
-                if (_rightNode != null)
+                if (rightNode != null)
                 {
-                    _rightNode.Insert(value);
+                    rightNode.Insert(value);
                 }
                 else
                 {
                     BinarySearchTree node = new BinarySearchTree();
                     node._value = value;
-                    _rightNode = node;
+                    rightNode = node;
                 }
             }
             else
             {
-                if (_leftNode != null)
+                if (leftNode != null)
                 {
-                    _leftNode.Insert(value);
+                    leftNode.Insert(value);
                 }
                 else
                 {
                     BinarySearchTree node = new BinarySearchTree();
                     node._value = value;
-                    _leftNode = node;
+                    leftNode = node;
                 }
             }
+        }
+
+        public int Value
+        {
+            get { return _value; }
         }
 
         public void CreateDsFromList(List<int> elementList)
@@ -60,9 +65,47 @@
 
         public void PrintDs()
         {
-            Console.WriteLine(_value);
-            _leftNode?.PrintDs();
-            _rightNode?.PrintDs();
+            this.PrettyPrint();
+        }
+
+        /// <summary>
+        /// Pretty printing the binary search tree.
+        /// </summary>
+        public void PrettyPrint(int padding = 0)
+        {
+            Console.WriteLine(this._value);
+
+            if (leftNode != null)
+            {
+                Console.Write(String.Concat(Enumerable.Repeat("-", padding)));
+                padding += 5;
+                Console.Write("|---");
+                leftNode.PrettyPrint(padding);
+                padding -= 5;
+            }
+            else
+            {
+                Console.Write(String.Concat(Enumerable.Repeat(" ", padding)));
+                padding += 5;
+                Console.WriteLine("|---null");
+                padding -= 5;
+            }
+
+            if (rightNode != null)
+            {
+                Console.Write(String.Concat(Enumerable.Repeat(" ", padding)));
+                padding += 5;
+                Console.Write("|---");
+                rightNode.PrettyPrint(padding);
+                padding -= 5;
+            }
+            else
+            {
+                Console.Write(String.Concat(Enumerable.Repeat(" ", padding)));
+                padding += 5;
+                Console.WriteLine("|---null");
+                padding -= 5;
+            }
         }
     }
 }

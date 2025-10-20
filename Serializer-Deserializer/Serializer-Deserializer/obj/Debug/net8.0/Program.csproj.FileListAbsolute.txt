@@ -9,12 +9,12 @@ C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serialize
 C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\bin\Debug\net8.0\Program.dll
 C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\bin\Debug\net8.0\Program.pdb
 C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\bin\Debug\net8.0\DataStructures.dll
-C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\bin\Debug\net8.0\ISerDser.dll
 C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\bin\Debug\net8.0\DataStructures.pdb
-C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\bin\Debug\net8.0\ISerDser.pdb
 C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\obj\Debug\net8.0\Program.csproj.Up2Date
 C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\obj\Debug\net8.0\Program.dll
 C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\obj\Debug\net8.0\refint\Program.dll
 C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\obj\Debug\net8.0\Program.pdb
 C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\obj\Debug\net8.0\Program.genruntimeconfig.cache
 C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\obj\Debug\net8.0\ref\Program.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\bin\Debug\net8.0\SerDser.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\Serializer-Deserializer\bin\Debug\net8.0\SerDser.pdb
