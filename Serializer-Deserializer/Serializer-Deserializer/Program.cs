@@ -12,8 +12,8 @@ namespace program
             IDataStructure linkedList = new LinkedList();
 
             // Serializer-Deserializer
-            ISerDser serializerDeserializer = new BstSerializer();
-            ISerDser serializerLL = new LlSerializer();
+            SerDerStrategy serializerDeserializerBst = new SerDerStrategy(new BstSerializer());
+            SerDerStrategy serializerDeserializerLl = new SerDerStrategy(new LlSerializer());
 
             // Variable for holding serialized data.
             byte[] serializedData;
@@ -31,16 +31,16 @@ namespace program
             Console.WriteLine("Linked List...\n");
             linkedList.PrintDs();
 
-            serializedData = serializerDeserializer.Serializer(binarySearchTree);
+            serializedData = serializerDeserializerBst.Serializer(binarySearchTree);
 
             // Stores deserialized bytestreams.
             IDataStructure decodedBinarySearchTree = new BinarySearchTree();
             IDataStructure decodedLinkedList = new LinkedList();
 
-            decodedBinarySearchTree = (BinarySearchTree) serializerDeserializer.Deserializer(serializedData);
+            decodedBinarySearchTree = (BinarySearchTree) serializerDeserializerBst.Deserializer(serializedData);
 
-            serializedData = serializerLL.Serializer(linkedList);
-            decodedLinkedList = (LinkedList)serializerLL.Deserializer(serializedData);
+            serializedData = serializerDeserializerLl.Serializer(linkedList);
+            decodedLinkedList = (LinkedList) serializerDeserializerLl.Deserializer(serializedData);
 
             // Print the decoded data to check correctness.
             Console.WriteLine("\nDeserialized Binary Search Tree...\n");
