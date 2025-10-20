@@ -96,7 +96,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\DataStructures\\DataStructures.csproj": {
+                "projectPath": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\Serializer-Deserializer\\Serializer-Deserializer\\DataStructures\\DataStructures.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

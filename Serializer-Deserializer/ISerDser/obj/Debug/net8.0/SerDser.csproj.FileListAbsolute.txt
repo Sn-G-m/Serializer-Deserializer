@@ -1,0 +1,15 @@
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\bin\Debug\net8.0\SerDser.deps.json
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\bin\Debug\net8.0\SerDser.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\bin\Debug\net8.0\SerDser.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\bin\Debug\net8.0\DataStructures.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\bin\Debug\net8.0\DataStructures.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\SerDser.csproj.AssemblyReference.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\SerDser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\SerDser.AssemblyInfoInputs.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\SerDser.AssemblyInfo.cs
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\SerDser.csproj.CoreCompileInputs.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\SerDser.csproj.Up2Date
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\SerDser.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\refint\SerDser.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\SerDser.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\Serializer-Deserializer\Serializer-Deserializer\ISerDser\obj\Debug\net8.0\ref\SerDser.dll
